@@ -2,6 +2,10 @@
     Smart Home Thermostat App IOS
 </h1>
 
+<div align="center">
+<img alt="amsust" src="app.gif" width="512px" />
+</div>
+
 <p align="center"> 🇧🇷 Neste repositório, você vai encontrar uma aplicação mobile, desenvolvida como prática de estudo. <br/> A aplicação inclui apenas uma usabilidade de automação residencial mminificada.</p>
 <p align="center">🇺🇸 In this repository, you will find a mobile application, developed as a study practice. <br/> The application only includes a minified home automation usability.</p>
 
